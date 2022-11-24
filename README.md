@@ -1,4 +1,4 @@
-# 【プロフィール】
+# プロフィール
 
 (最終更新日:2022/11/25)
 
@@ -27,4 +27,22 @@
 ---
 🗂各種SNS等のリンクは[こちら](https://1link.jp/shinanashi)
 
-💻Githubでやってること
+💻Githubでやってること  
+<details>
+<summary>┣ 自分系･生活</summary>
+
+[shinanashi📁](https://github.com/ShinaNashi/ShinaNashi)
+> 自己紹介と悪夢日記
+</details>
+<details>
+<summary>┣ 医学･薬系</summary>
+
+[medical📁](https://github.com/ShinaNashi/medical)
+> 医学から薬学、法医学までカバー(できたらいいな)
+</details>
+<details>
+<summary>┗ 趣味用</summary>
+
+[pastime📁](https://github.com/ShinaNashi/pastime)
+> うちの趣味系をまとめたもの。界隈曲とかetc
+</details>
