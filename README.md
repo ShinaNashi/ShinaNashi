@@ -27,7 +27,7 @@
 ---
 🗂各種SNS等のリンクは[こちら](https://1link.jp/shinanashi)
 
-💻Githubでやってること  
+## 💻Githubでやってること  
 <details>
 <summary>┣ 自分系･生活</summary>
 
